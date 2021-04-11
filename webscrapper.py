@@ -5,7 +5,7 @@ import re
 from bs4 import BeautifulSoup
 
 
-# Add Comment 17
+# Add Comment 18
 
 
 def scrape(source_url, soup):  # Takes the driver and the subdomain for concats as params
