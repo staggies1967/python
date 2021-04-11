@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 # New comment 2
 # New comment 3
 # New comment 4
+# New comment 5
 
 def scrape(source_url, soup):  # Takes the driver and the subdomain for concats as params
     # Find the elements of the article tag
